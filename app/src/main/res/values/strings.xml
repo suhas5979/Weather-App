@@ -7,5 +7,6 @@
     <!--START-->
     <string name="image_contentDescription">image</string>
     <string name="miles_per_hour">miles/hour</string>
+    <string name="refresh">Refresh</string>
     <!--END-->
 </resources>
